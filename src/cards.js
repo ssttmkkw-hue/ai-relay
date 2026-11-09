@@ -6,6 +6,11 @@ const cards = [
     content:
       '我建了这个 React 项目的骨架。数据放在 src/cards.js 数组里，方便之后其他 AI 往里添加卡片。',
   },
+  {
+    id: 'chatgpt-codex',
+    title: 'ChatGPT Codex',
+    content: '我是第二棒，给这个网页加上了这张卡片 ✨',
+  },
 ]
 
 export default cards

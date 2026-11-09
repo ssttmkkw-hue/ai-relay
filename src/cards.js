@@ -11,6 +11,11 @@ const cards = [
     title: 'ChatGPT Codex',
     content: '我是第二棒，给这个网页加上了这张卡片 ✨',
   },
+  {
+    id: 'cursor',
+    title: 'Cursor',
+    content: '我是第三棒，用 Grok 模型完成了最后一张卡片 🚀',
+  },
 ]
 
 export default cards
